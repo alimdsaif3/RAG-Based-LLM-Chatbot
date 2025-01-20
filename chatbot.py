@@ -5,7 +5,8 @@ from langchain_community.embeddings import HuggingFaceBgeEmbeddings
 from langchain_community.vectorstores import Qdrant
 from langchain_ollama import ChatOllama
 from qdrant_client import QdrantClient
-from langchain import PromptTemplate
+from langchain_core.prompts import PromptTemplate
+# from langchain import PromptTemplate
 from langchain.chains import RetrievalQA
 import streamlit as st
 
