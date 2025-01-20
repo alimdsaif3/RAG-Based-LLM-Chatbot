@@ -1,6 +1,6 @@
 # RAG Based LLM AI Chatbot 🤖
 
-RAG Based LLM AI Chatbot Built using Open Source Stack (Llama 3.2 Model, BGE Embeddings, and Qdrant running locally within a Docker Container)
+RAG Based LLM AI Chatbot to Built using Open Source Stack (Llama 3.2 Model, BGE Embeddings, and Qdrant running locally within a Docker Container)
 
 ![RAG Based LLM AI Chatbot](logo.png)
 
